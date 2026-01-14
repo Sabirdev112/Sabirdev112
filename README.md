@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:0077B5&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF512F&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
 
 <h3 align="center">:rocket: SQA Engineer | QA Automation | Manual & Performance Testing</h3>
 
@@ -17,14 +17,14 @@
 ---
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=SQA+Engineer;Manual+%26+Automated+Testing;Cypress+%26+Playwright;Performance+%26+API+Testing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=SQA+Engineer;Manual+%26+Automated+Testing;Cypress+%26+Playwright;Performance+%26+API+Testing)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ## :briefcase: Professional Summary
-I am a dedicated **Software Quality Assurance Engineer** specializing in **manual & automated testing**, **performance & API testing**, and **cross-platform QA validation**.  
-I have hands-on experience with **Cypress, Playwright, Selenium, JMeter, Postman, Appium, ZAP, ClickUp, and Jira**, ensuring **high-quality builds and product reliability**.
+Dedicated **Software Quality Assurance Engineer** specializing in **manual & automated testing**, **performance & API testing**, and **cross-platform QA validation**.  
+Hands-on experience with **Cypress, Playwright, Selenium, JMeter, Postman, Appium, ZAP, ClickUp, and Jira**, ensuring **high-quality builds and product reliability**.
 
 ---
 
@@ -37,37 +37,25 @@ I have hands-on experience with **Cypress, Playwright, Selenium, JMeter, Postman
 ## :rocket: Major Projects
 
 ### :car: BidCaribbean – Online Car Auction Platform
-**Tech Stack:** Node.js, React, PostgreSQL, Redis, Docker  
-- Performed **end-to-end functional, regression & usability testing** for live car auctions.  
-- Reported bugs in ClickUp with **detailed reproduction steps**.  
+- End-to-end **functional, regression & usability testing** for live car auctions.  
+- Reported bugs with **detailed reproduction steps** in ClickUp.  
 - Achieved **95%+ bug resolution**, improving platform stability.  
-- Ensured **cross-browser and cross-device compatibility**.  
-- **Demo GIF:**  
-![BidCaribbean Demo](https://media.giphy.com/media/3o6ZsVhMP0g5Xa2Xg8/giphy.gif)
+- Ensured **cross-browser and cross-device compatibility**.
 
 ### :video_camera: Reel Recruit – Video-Based Hiring Platform
-**Tech Stack:** React, Node.js, PostgreSQL  
-- Full QA ownership for reviewing **candidate video resumes**.  
+- Full QA ownership for **candidate video resume platform**.  
 - Designed and executed **functional, regression, and usability tests**.  
-- Collaborated with designers & developers to **enhance UX**.  
-- **Demo GIF:**  
-![Reel Recruit Demo](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
+- Collaborated with designers & developers to **enhance UX**.
 
 ### :speech_balloon: Gettr – Social Media Platform (Client Project)
-**Tech Stack:** React, Node.js, Firebase  
 - Conducted **exploratory testing** on web & mobile.  
-- Reported **critical functional, UI & usability bugs**.  
-- Verified fixes with client developers for **smooth releases**.  
-- **Demo GIF:**  
-![Gettr Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+- Reported **functional, UI & usability bugs**.  
+- Verified fixes with client developers for **smooth releases**.
 
 ### :gem: Nivoda – Online Diamond Trading Platform (Client Project)
-**Tech Stack:** React, Node.js, PostgreSQL  
 - Manual exploratory testing on web & mobile.  
 - Focused on **functional accuracy, UI consistency, and data validation**.  
-- Verified resolved issues across multiple builds for **reliable deployments**.  
-- **Demo GIF:**  
-![Nivoda Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+- Verified resolved issues across multiple builds for **reliable deployments**.
 
 ---
 
@@ -101,11 +89,11 @@ I have hands-on experience with **Cypress, Playwright, Selenium, JMeter, Postman
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabirdev112&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sabirdev112&label=Profile%20views&color=8E2DE2&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 :star: *"Delivering quality software through rigorous testing, automation, and continuous improvement."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:4CAF50&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF512F&height=120&section=footer" width="100%"/>
