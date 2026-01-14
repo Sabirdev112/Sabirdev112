@@ -1,5 +1,6 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=curved&color=0:ff7e5f,100:feb47b&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff6a00,50:ee0979,100:ff6a00&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=slideIn" width="100%"/>
+
 
 
 
