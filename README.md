@@ -9,23 +9,24 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-sabir-399a00351/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sabirdev112"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:muhammadsabir.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammad-sabir-399a00351/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/></a>
+  <a href="https://github.com/sabirdev112"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/></a>
+  <a href="mailto:muhammadsabir.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=SQA+Engineer;Manual+%26+Automated+Testing;Cypress+%26+Playwright;Performance+%26+API+Testing" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=SQA+Engineer;Manual+%26+Automated+Testing;Cypress+%26+Playwright;Performance+%26+API+Testing;30%2B+Websites+QA+Experience" alt="Typing SVG"/>
 </div>
-
 
 ---
 
 ## :briefcase: Professional Summary
-Dedicated **Software Quality Assurance Engineer** specializing in **manual & automated testing**, **performance & API testing**, and **cross-platform QA validation**.  
-Hands-on experience with **Cypress, Playwright, Selenium, JMeter, Postman, Appium, ZAP, ClickUp, and Jira**, ensuring **high-quality builds and product reliability**.
+I am a **Software Quality Assurance Engineer** with experience on **30+ websites**, including **AI-based platforms like MagicSchool** and **service-based websites**.  
+Expert in **manual & automated testing**, **performance & API testing**, and **cross-platform QA validation**.  
+
+Hands-on with **Cypress, Playwright, Selenium, JMeter, K6, Postman, Appium, ZAP, ClickUp, Jira, Docker, Kubernetes**, and **CI/CD tools**, ensuring **stable, high-quality builds**.
 
 ---
 
@@ -38,54 +39,63 @@ Hands-on experience with **Cypress, Playwright, Selenium, JMeter, Postman, Appiu
 ## :rocket: Major Projects
 
 ### :car: BidCaribbean – Online Car Auction Platform
-- End-to-end **functional, regression & usability testing** for live car auctions.  
-- Reported bugs with **detailed reproduction steps** in ClickUp.  
-- Achieved **95%+ bug resolution**, improving platform stability.  
-- Ensured **cross-browser and cross-device compatibility**.
+- End-to-end **functional, regression & usability testing**.  
+- Bug reporting & tracking in **ClickUp**.  
+- **95%+ bug resolution** for stable releases.  
 
 ### :video_camera: Reel Recruit – Video-Based Hiring Platform
-- Full QA ownership for **candidate video resume platform**.  
-- Designed and executed **functional, regression, and usability tests**.  
-- Collaborated with designers & developers to **enhance UX**.
+- Full QA ownership of **video resume platform**.  
+- Designed & executed **functional, regression & usability tests**.  
 
-### :speech_balloon: Gettr – Social Media Platform (Client Project)
-- Conducted **exploratory testing** on web & mobile.  
-- Reported **functional, UI & usability bugs**.  
-- Verified fixes with client developers for **smooth releases**.
+### :speech_balloon: Gettr – Social Media Platform
+- Exploratory testing on **web & mobile**.  
+- Reported critical **functional, UI & usability bugs**.  
 
-### :gem: Nivoda – Online Diamond Trading Platform (Client Project)
-- Manual exploratory testing on web & mobile.  
+### :gem: Nivoda – Online Diamond Trading Platform
+- Manual exploratory testing on **web & mobile**.  
 - Focused on **functional accuracy, UI consistency, and data validation**.  
-- Verified resolved issues across multiple builds for **reliable deployments**.
+
+### :sparkles: MagicSchool – AI Learning Platform
+- QA for **AI-based learning website**.  
+- Tested **interactive AI modules**, video content, and user dashboards.  
+
+### :wrench: Service-Based Websites (Multiple Clients)
+- Tested **30+ websites** including SaaS platforms and service portals.  
+- Performed **manual & automation testing**, **API & performance testing**, and **security checks**.  
 
 ---
 
 ## :toolbox: Technical Skills
 
-### :jigsaw: Testing Tools & Automation
+### :jigsaw: Testing & Automation Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Cypress-04D361?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-323CE6?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JMeter-FE7B00?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appium-000?style=for-the-badge&logo=appium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ZAP-008000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-90%25-04D361?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-85%25-323CE6?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-80%25-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-75%25-FE7B00?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/K6-70%25-4B5B6B?style=for-the-badge&logo=k6&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-85%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appium-75%25-000?style=for-the-badge&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZAP-70%25-008000?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+### :gear: DevOps & Containers
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-80%25-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-70%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ### :jigsaw: Programming & QA Practices
 - **Languages:** JavaScript  
-- **QA Practices:** Test Case Writing, Manual Testing, Regression Testing, Exploratory Testing, API Testing, Performance Testing
+- **QA Practices:** Test Case Writing, Manual Testing, Regression Testing, Exploratory Testing, API & Performance Testing
 
 ---
 
 ## :trophy: Achievements & Certifications
-- :first_place_medal: Successfully executed QA for multiple client projects with **95%+ bug resolution**  
+- :first_place_medal: Executed QA for **30+ websites** with high-quality results  
 - :scroll: Certified in **Cypress & Playwright Automation**  
-- :scroll: Completed **Performance Testing with JMeter**  
-- :scroll: Trained in **API Testing with Postman & ZAP Security**  
+- :scroll: Completed **Performance Testing with JMeter & K6**  
+- :scroll: Experienced in **Docker & Kubernetes for CI/CD QA pipelines**  
 
 ---
 
