@@ -1,67 +1,100 @@
-# Muhammad Sabir
-**SQA Engineer**
+<h1 align="center">Muhammad Sabir</h1>
+<p align="center">
+  <strong>SQA Engineer</strong>
+</p>
 
-📞 0307-9410621  
-✉️ [muhammadsabir.dev@gmail.com](mailto:muhammadsabir.dev@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-sabir-399a00351/)  
-🔗 [GitHub](https://github.com/sabirdev112)  
+<p align="center">
+  📞 0307-9410621 &nbsp;|&nbsp; 
+  ✉️ <a href="mailto:muhammadsabir.dev@gmail.com">muhammadsabir.dev@gmail.com</a> &nbsp;|&nbsp; 
+  🔗 <a href="https://www.linkedin.com/in/muhammad-sabir-399a00351/">LinkedIn</a> &nbsp;|&nbsp;
+  🔗 <a href="https://github.com/sabirdev112">GitHub</a>
+</p>
 
 ---
 
-## Education
+## 🎓 Education
 **SUPERIOR UNIVERSITY**  
-Bachelor of Science in Computer Science  
+_Bachelor of Science in Computer Science_
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 ### The OutSell | Software Quality Assurance Engineer
-Contributed to projects such as **BidCaribbean**, **Reel Recruit**, **Gettr**, and **Nivoda**, ensuring product quality across web and mobile platforms.  
+Worked on **BidCaribbean**, **Reel Recruit**, **Gettr**, and **Nivoda**, ensuring quality across web & mobile platforms.  
 
-**Key Responsibilities:**
-- Wrote detailed test cases and performed manual & automated testing.
-- Verified bug fixes in collaboration with developers and designers.
-- Participated in team meetings to provide project updates.
-- Hands-on experience with **Cypress, Selenium, Playwright, JMeter, Postman, Appium, ZAP, ClickUp, Jira**.
-- Focused on usability, continuous delivery, and high-quality builds.
+**Key Achievements:**
+- ✅ Wrote detailed test cases and conducted manual & automated testing.
+- ✅ Verified bug fixes collaboratively with developers & designers.
+- ✅ Hands-on experience with:  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-Testing-brightgreen?style=for-the-badge&logo=cypress&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-Testing-blue?style=for-the-badge&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-Testing-red?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/JMeter-Performance-orange?style=for-the-badge&logo=jmeter&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-API-lightgrey?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Appium-Mobile-purple?style=for-the-badge&logo=appium&logoColor=white">
+  <img src="https://img.shields.io/badge/ZAP-Security-darkgreen?style=for-the-badge&logo=owasp&logoColor=white">
+</p>
+
+- ✅ Focused on usability, high-quality standards, and continuous delivery.
 
 ---
 
-## Skills
-- **Testing & Tools:** Cypress, Playwright, Selenium, JMeter, Postman, Appium, ZAP, ClickUp, Jira  
-- **Languages & Programming:** JavaScript  
-- **QA Practices:** Test case writing, Exploratory Testing, Regression Testing  
+## 🛠 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Cypress-testing-brightgreen?style=for-the-badge&logo=cypress&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-testing-blue?style=for-the-badge&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-testing-red?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/JMeter-performance-orange?style=for-the-badge&logo=jmeter&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-API-lightgrey?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Appium-mobile-purple?style=for-the-badge&logo=appium&logoColor=white">
+</p>
 
 ---
 
-## Projects
+## 📂 Projects
 
 ### BidCaribbean | Car Bidding & Live Auction Platform
-- Performed end-to-end functional, regression, and usability testing for a live auction platform with real-time bidding and integrated admin panel.
-- Identified, documented, and tracked bugs using ClickUp with detailed test evidence.
-- Collaborated with developers to prioritize and resolve issues, achieving 95%+ bug resolution for stable builds.
-- Conducted cross-browser and cross-device testing for a seamless user experience.
-- Designed and executed manual and exploratory tests across bidding workflows, payment flows, and admin management.
+- 🚗 End-to-end functional, regression & usability testing.
+- 📝 Detailed bug reports in ClickUp.
+- ⚡ Achieved 95%+ bug resolution for stable builds.
+- 🌐 Cross-browser & cross-device testing.
+- 📹 Demo:  
+![BidCaribbean Demo](https://media.giphy.com/media/3o6ZsVhMP0g5Xa2Xg8/giphy.gif)
 
 ### Reel Recruit | Video-Based Hiring Platform
-- Full QA ownership of a platform allowing recruiters to review candidate video resumes.
-- Designed detailed test cases and executed functional, regression, and usability tests.
-- Collaborated with designers and developers to enhance user experience.
-- Proactively identified and resolved bugs in early-stage builds, ensuring stable releases.
+- 🎥 Full QA ownership of video-driven hiring platform.
+- ✅ Designed test cases and executed functional, regression & usability tests.
+- 🤝 Collaborated with developers & designers.
+- 📹 Demo:  
+![Reel Recruit Demo](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
 
-### Gettr (Client Project) | Social Media Platform
-- Conducted exploratory testing on web and mobile platforms.
-- Identified critical functional, UI, and usability bugs across multiple devices and browsers.
-- Created detailed bug reports with reproduction steps and severity classification.
-- Verified fixes with the client’s development team to ensure smooth release cycles.
+### Gettr | Social Media Platform (Client Project)
+- 🌐 Exploratory testing on web & mobile.
+- 🐛 Reported functional, UI & usability bugs.
+- 🛠 Verified fixes with client developers.
+- 📹 Demo:  
+![Gettr Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-### Nivoda (Client Project) | Online Diamond Trading Platform
-- Executed manual exploratory testing on web and mobile platforms.
-- Reported bugs with detailed evidence and collaborated closely for quick fixes.
-- Verified resolved issues across multiple builds for consistent quality.
-- Focused on functional accuracy, UI consistency, and data validation.
+### Nivoda | Online Diamond Trading Platform (Client Project)
+- 💎 Manual exploratory testing on web & mobile.
+- 📝 Detailed bug reports with evidence & reproduction steps.
+- 🔄 Verified resolved issues across multiple builds.
+- 🎯 Ensured functional accuracy, UI consistency & data validation.
+- 📹 Demo:  
+![Nivoda Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 ---
 
-## Contact
-Feel free to reach out via **email** or **LinkedIn** for collaboration or opportunities!
+## 📫 Contact
+Feel free to reach out for collaboration or opportunities!  
+✉️ [Email](mailto:muhammadsabir.dev@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-sabir-399a00351/) | 🔗 [GitHub](https://github.com/sabirdev112)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabirdev112&style=flat-square&color=blue" alt="profile views"/>
+</p>
