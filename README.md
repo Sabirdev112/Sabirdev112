@@ -112,4 +112,5 @@ Hands-on with **Cypress, Playwright, Selenium, JMeter, K6, Postman, Appium, ZAP,
 </p>
 
 <!-- FOOTER -->
-<img src="./assets/footer.png" width="100%" alt="Footer Gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=classic&color=0:141E30,100:243B55&height=100&section=footer&text=©%202026%20Muhammad%20Sabir&fontSize=25&fontColor=fff&animation=fadeIn" width="100%"/>
+
