@@ -1,100 +1,111 @@
-<h1 align="center">Muhammad Sabir</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:0077B5&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
+
+<h3 align="center">:rocket: SQA Engineer | QA Automation | Manual & Performance Testing</h3>
+
 <p align="center">
-  <strong>SQA Engineer</strong>
+  :round_pushpin: Pakistan &nbsp; | &nbsp;
+  :e-mail: <a href="mailto:muhammadsabir.dev@gmail.com">muhammadsabir.dev@gmail.com</a> &nbsp; | &nbsp;
+  :telephone_receiver: 0307-9410621
 </p>
 
 <p align="center">
-  📞 0307-9410621 &nbsp;|&nbsp; 
-  ✉️ <a href="mailto:muhammadsabir.dev@gmail.com">muhammadsabir.dev@gmail.com</a> &nbsp;|&nbsp; 
-  🔗 <a href="https://www.linkedin.com/in/muhammad-sabir-399a00351/">LinkedIn</a> &nbsp;|&nbsp;
-  🔗 <a href="https://github.com/sabirdev112">GitHub</a>
-</p>
-
----
-
-## 🎓 Education
-**SUPERIOR UNIVERSITY**  
-_Bachelor of Science in Computer Science_
-
----
-
-## 💼 Professional Experience
-### The OutSell | Software Quality Assurance Engineer
-Worked on **BidCaribbean**, **Reel Recruit**, **Gettr**, and **Nivoda**, ensuring quality across web & mobile platforms.  
-
-**Key Achievements:**
-- ✅ Wrote detailed test cases and conducted manual & automated testing.
-- ✅ Verified bug fixes collaboratively with developers & designers.
-- ✅ Hands-on experience with:  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cypress-Testing-brightgreen?style=for-the-badge&logo=cypress&logoColor=white">
-  <img src="https://img.shields.io/badge/Playwright-Testing-blue?style=for-the-badge&logo=playwright&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-Testing-red?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/JMeter-Performance-orange?style=for-the-badge&logo=jmeter&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-API-lightgrey?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Appium-Mobile-purple?style=for-the-badge&logo=appium&logoColor=white">
-  <img src="https://img.shields.io/badge/ZAP-Security-darkgreen?style=for-the-badge&logo=owasp&logoColor=white">
-</p>
-
-- ✅ Focused on usability, high-quality standards, and continuous delivery.
-
----
-
-## 🛠 Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Cypress-testing-brightgreen?style=for-the-badge&logo=cypress&logoColor=white">
-  <img src="https://img.shields.io/badge/Playwright-testing-blue?style=for-the-badge&logo=playwright&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-testing-red?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/JMeter-performance-orange?style=for-the-badge&logo=jmeter&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-API-lightgrey?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Appium-mobile-purple?style=for-the-badge&logo=appium&logoColor=white">
+  <a href="https://linkedin.com/in/muhammad-sabir-399a00351/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sabirdev112"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:muhammadsabir.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📂 Projects
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=SQA+Engineer;Manual+%26+Automated+Testing;Cypress+%26+Playwright;Performance+%26+API+Testing)](https://git.io/typing-svg)
+</div>
 
-### BidCaribbean | Car Bidding & Live Auction Platform
-- 🚗 End-to-end functional, regression & usability testing.
-- 📝 Detailed bug reports in ClickUp.
-- ⚡ Achieved 95%+ bug resolution for stable builds.
-- 🌐 Cross-browser & cross-device testing.
-- 📹 Demo:  
+---
+
+## :briefcase: Professional Summary
+I am a dedicated **Software Quality Assurance Engineer** specializing in **manual & automated testing**, **performance & API testing**, and **cross-platform QA validation**.  
+I have hands-on experience with **Cypress, Playwright, Selenium, JMeter, Postman, Appium, ZAP, ClickUp, and Jira**, ensuring **high-quality builds and product reliability**.
+
+---
+
+## :mortar_board: Education
+:mortar_board: **Bachelor of Science in Computer Science**  
+**Superior University**, Pakistan  
+
+---
+
+## :rocket: Major Projects
+
+### :car: BidCaribbean – Online Car Auction Platform
+**Tech Stack:** Node.js, React, PostgreSQL, Redis, Docker  
+- Performed **end-to-end functional, regression & usability testing** for live car auctions.  
+- Reported bugs in ClickUp with **detailed reproduction steps**.  
+- Achieved **95%+ bug resolution**, improving platform stability.  
+- Ensured **cross-browser and cross-device compatibility**.  
+- **Demo GIF:**  
 ![BidCaribbean Demo](https://media.giphy.com/media/3o6ZsVhMP0g5Xa2Xg8/giphy.gif)
 
-### Reel Recruit | Video-Based Hiring Platform
-- 🎥 Full QA ownership of video-driven hiring platform.
-- ✅ Designed test cases and executed functional, regression & usability tests.
-- 🤝 Collaborated with developers & designers.
-- 📹 Demo:  
+### :video_camera: Reel Recruit – Video-Based Hiring Platform
+**Tech Stack:** React, Node.js, PostgreSQL  
+- Full QA ownership for reviewing **candidate video resumes**.  
+- Designed and executed **functional, regression, and usability tests**.  
+- Collaborated with designers & developers to **enhance UX**.  
+- **Demo GIF:**  
 ![Reel Recruit Demo](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
 
-### Gettr | Social Media Platform (Client Project)
-- 🌐 Exploratory testing on web & mobile.
-- 🐛 Reported functional, UI & usability bugs.
-- 🛠 Verified fixes with client developers.
-- 📹 Demo:  
+### :speech_balloon: Gettr – Social Media Platform (Client Project)
+**Tech Stack:** React, Node.js, Firebase  
+- Conducted **exploratory testing** on web & mobile.  
+- Reported **critical functional, UI & usability bugs**.  
+- Verified fixes with client developers for **smooth releases**.  
+- **Demo GIF:**  
 ![Gettr Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-### Nivoda | Online Diamond Trading Platform (Client Project)
-- 💎 Manual exploratory testing on web & mobile.
-- 📝 Detailed bug reports with evidence & reproduction steps.
-- 🔄 Verified resolved issues across multiple builds.
-- 🎯 Ensured functional accuracy, UI consistency & data validation.
-- 📹 Demo:  
+### :gem: Nivoda – Online Diamond Trading Platform (Client Project)
+**Tech Stack:** React, Node.js, PostgreSQL  
+- Manual exploratory testing on web & mobile.  
+- Focused on **functional accuracy, UI consistency, and data validation**.  
+- Verified resolved issues across multiple builds for **reliable deployments**.  
+- **Demo GIF:**  
 ![Nivoda Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 ---
 
-## 📫 Contact
-Feel free to reach out for collaboration or opportunities!  
-✉️ [Email](mailto:muhammadsabir.dev@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-sabir-399a00351/) | 🔗 [GitHub](https://github.com/sabirdev112)
+## :toolbox: Technical Skills
+
+### :jigsaw: Testing Tools & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Cypress-04D361?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-323CE6?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-FE7B00?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appium-000?style=for-the-badge&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZAP-008000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+</p>
+
+### :jigsaw: Programming & QA Practices
+- **Languages:** JavaScript  
+- **QA Practices:** Test Case Writing, Manual Testing, Regression Testing, Exploratory Testing, API Testing, Performance Testing
+
+---
+
+## :trophy: Achievements & Certifications
+- :first_place_medal: Successfully executed QA for multiple client projects with **95%+ bug resolution**  
+- :scroll: Certified in **Cypress & Playwright Automation**  
+- :scroll: Completed **Performance Testing with JMeter**  
+- :scroll: Trained in **API Testing with Postman & ZAP Security**  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabirdev112&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sabirdev112&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+
+---
+
+:star: *"Delivering quality software through rigorous testing, automation, and continuous improvement."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:4CAF50&height=120&section=footer" width="100%"/>
