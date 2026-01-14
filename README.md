@@ -17,8 +17,9 @@
 ---
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=SQA+Engineer;Manual+%26+Automated+Testing;Cypress+%26+Playwright;Performance+%26+API+Testing)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=SQA+Engineer;Manual+%26+Automated+Testing;Cypress+%26+Playwright;Performance+%26+API+Testing" alt="Typing SVG"/>
 </div>
+
 
 ---
 
