@@ -1,6 +1,6 @@
 <!-- HEADER -->
-<img src='[https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/87ebd238-6825-4443-bf6d-b5035b985d5c.png" width="100%" alt="Header Gradient"](https://capsule-render.vercel.app/api?type=rounded&color=0:11998e,100:38ef7d&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=slideIn
-)'/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:11998e,100:38ef7d&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=slideIn" width="100%"/>
+
 
 <h3 align="center">:rocket: SQA Engineer | QA Automation | Manual & Performance Testing</h3>
 
