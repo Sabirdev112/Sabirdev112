@@ -112,5 +112,6 @@ Hands-on with **Cypress, Playwright, Selenium, JMeter, K6, Postman, Appium, ZAP,
 </p>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=classic&color=0:141E30,100:243B55&height=100&section=footer&text=©%202026%20Muhammad%20Sabir&fontSize=25&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=curved&color=0:ff7e5f,100:feb47b&height=100&section=footer&text=Have%20a%20great%20day!&fontSize=25&fontColor=fff&animation=fadeIn" width="100%"/>
+
 
