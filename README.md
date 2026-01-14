@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="./assets/header.png" width="100%" alt="Header Gradient"/>
+<img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/87ebd238-6825-4443-bf6d-b5035b985d5c.png" width="100%" alt="Header Gradient"/>
 
 <h3 align="center">:rocket: SQA Engineer | QA Automation | Manual & Performance Testing</h3>
 
