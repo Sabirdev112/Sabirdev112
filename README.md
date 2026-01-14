@@ -1,5 +1,6 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:11998e,100:38ef7d&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=slideIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=curved&color=0:ff7e5f,100:feb47b&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
+
 
 
 <h3 align="center">:rocket: SQA Engineer | QA Automation | Manual & Performance Testing</h3>
