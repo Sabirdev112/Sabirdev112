@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF512F&height=200&section=header&text=Muhammad%20Sabir%20👋&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://via.placeholder.com/1200x200/8E2DE2/FF512F?text=👋+Muhammad+Sabir" width="100%" alt="Header Gradient"/>
 
 <h3 align="center">:rocket: SQA Engineer | QA Automation | Manual & Performance Testing</h3>
 
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-sabir-399a00351/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/></a>
-  <a href="https://github.com/sabirdev112"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/></a>
-  <a href="mailto:muhammadsabir.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/></a>
+  <a href="https://linkedin.com/in/muhammad-sabir-399a00351/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sabirdev112"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:muhammadsabir.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -107,4 +107,4 @@ Hands-on with **Cypress, Playwright, Selenium, JMeter, K6, Postman, Appium, ZAP,
 
 :star: *"Delivering quality software through rigorous testing, automation, and continuous improvement."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF512F&height=120&section=footer" width="100%"/>
+<img src="https://via.placeholder.com/1200x120/8E2DE2/FF512F?text=Thank+you+for+visiting+my+profile" width="100%" alt="Footer Gradient"/>
