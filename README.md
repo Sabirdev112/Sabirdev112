@@ -1,4 +1,7 @@
-<img src="https://via.placeholder.com/1200x200/8E2DE2/FF512F?text=👋+Muhammad+Sabir" width="100%" alt="Header Gradient"/>
+<!-- HEADER -->
+<p align="center">
+  <img width="100%" alt="Header Gradient" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMTIwMCcgaGVpZ2h0PScyMDAnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHJlY3Qgd2lkdGg9JzEyMDAnIGhlaWdodD0nMjAwJyBmaWxsPSJ1cmwoI2dyYWRpZW50KSIvPjxsaW5lYXJHcmFkaWVudCBpZD0nZ3JhZGllbnQnIHgxPScwJyB5MT0nMCcgeDI9JzEnIHkyPScwJz48c3RvcCBvZmZzZXQ9JzAnIHN0b3AtY29sb3I9IiM4RTJERSIvPjxzdG9wIG9mZnNldD0nMScgc3RvcC1jb2xvcj0iI0ZGNUEyRiIvPjwvbGluZWFyR3JhZGllbnQ+PC9zdmc+"/>
+</p>
 
 <h3 align="center">:rocket: SQA Engineer | QA Automation | Manual & Performance Testing</h3>
 
@@ -103,8 +106,7 @@ Hands-on with **Cypress, Playwright, Selenium, JMeter, K6, Postman, Appium, ZAP,
   <img src="https://komarev.com/ghpvc/?username=sabirdev112&label=Profile%20views&color=8E2DE2&style=flat" alt="profile views"/>
 </p>
 
----
-
-:star: *"Delivering quality software through rigorous testing, automation, and continuous improvement."*
-
-<img src="https://via.placeholder.com/1200x120/8E2DE2/FF512F?text=Thank+you+for+visiting+my+profile" width="100%" alt="Footer Gradient"/>
+<!-- FOOTER -->
+<p align="center">
+  <img width="100%" alt="Footer Gradient" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMTIwMCcgaGVpZ2h0PScxMjAnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHJlY3Qgd2lkdGg9JzEyMDAnIGhlaWdodD0nMTIwJyBmaWxsPSJ1cmwoI2dyYWRpZW50ZikpIi8+PGxpbmVhckdyYWRpZW50IGlkPSdncmFkaWVudCcgIHgxPScwJyB5MT0nMCcgeDI9JzEnIHkyPScwJz48c3RvcCBvZmZzZXQ9JzAnIHN0b3AtY29sb3I9IiM4RTJERSIvPjxzdG9wIG9mZnNldD0nMScgc3RvcC1jb2xvcj0iI0ZGNUEyRiIvPjwvbGluZWFyR3JhZGllbnQ+PC9zdmc+"/>
+</p>
